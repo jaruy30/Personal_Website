@@ -66,6 +66,7 @@ h1{
 
   .childhood_images img:hover {
     box-shadow: 0 0 10px 8px #5A4938;
+
     }
 
   .teen_images img {
@@ -111,8 +112,10 @@ h1{
     margin-bottom: -20px;
     margin-left: 320px;
   }
-      
-
+  
+  a{
+    text-decoration: none;
+  }
     
   a:hover {
     color: black;
